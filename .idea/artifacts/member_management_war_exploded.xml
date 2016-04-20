@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="member-management:war exploded">
-    <output-path>$PROJECT_DIR$/../../apache-tomcat-7.0.47/webapps/member-management</output-path>
+    <output-path>D:/apache-tomcat-7.0.47/webapps/member-management</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="member-management/web/Web" />
       <element id="directory" name="WEB-INF">
